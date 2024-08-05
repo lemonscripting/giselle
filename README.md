@@ -14,3 +14,7 @@
 - psle
 - evenorodd
 - rightangtri
+###### 05-08-2024
+- xmas
+- area_noi
+- cuberoot
