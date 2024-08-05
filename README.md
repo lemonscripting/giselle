@@ -19,3 +19,5 @@
 - area_noi
 - cuberoot
 - nprime
+- pigeons
+- tourist_noi
