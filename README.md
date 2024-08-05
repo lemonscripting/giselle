@@ -18,3 +18,4 @@
 - xmas
 - area_noi
 - cuberoot
+- nprime
